@@ -1,0 +1,20 @@
+.EditProduct > form {
+	width: 250px;
+    text-align: left;
+}
+
+.EditProduct input, .EditProduct button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.EditProduct h2 {
+    text-align: center;
+}
+
+.EditProduct span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+}
